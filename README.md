@@ -1,4 +1,4 @@
-ML_Projects: Machine Learning Practice Hub
+#ML_Projects: Machine Learning Practice Hub
 🚀 Project Overview
 Welcome to ML_Projects! This repository is designed to be a curated hub of completed Machine Learning projects, focusing on practical implementation across various domains.
 
